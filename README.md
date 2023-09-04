@@ -24,10 +24,6 @@ I'm just a guy from austria, controlling the world of 0 and 1 😄
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
 </div>
 
-## I'm having a pet 🐍
-
-<img src="https://raw.githubusercontent.com/SmartSquareAZ/SmartSquareAZ/output/snake.svg" alt="Snake animation" />
-
 ## My achievements 🏅
 
 <div align="center">

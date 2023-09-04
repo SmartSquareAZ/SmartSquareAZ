@@ -35,6 +35,6 @@ I'm just a guy from austria, controlling the world of 0 and 1 😄
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SmartSquareAZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smartsquareaz&label=Profile%20views&color=0e75b6&style=flat" alt="smartsquareaz" /> </p>
-
 ### Thanks for visiting my github page 😎
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smartsquareaz&label=Profile%20views&color=0e75b6&style=flat" alt="smartsquareaz" /> </p>

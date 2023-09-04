@@ -34,8 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SmartSquareAZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smartsquareaz&label=Profile%20views&color=0e75b6&style=flat" alt="smartsquareaz" /> </p>
 
 ### Thanks for visiting my github page 😎

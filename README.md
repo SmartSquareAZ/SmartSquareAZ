@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I'm just a guy from austria, controlling the world of 0 and 1 😄
 
 ## I code with 💻
